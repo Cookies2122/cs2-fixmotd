@@ -59,7 +59,7 @@ git clone --recursive https://github.com/alliedmodders/metamod-source
 **3. Плагин.** Папка SchemaEntity должна лежать рядом с папкой плагина.
 
 ```bash
-git clone https://github.com/{o}/SchemaEntity
+git clone https://github.com/Cookies2122/SchemaEntity
 git clone https://github.com/Cookies2122/cs2-fixmotd
 cd cs2-fixmotd
 mkdir build && cd build
